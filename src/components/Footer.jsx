@@ -11,7 +11,7 @@ const Footer = () => {
         <div className='flex'>
         <p className='text-gray-300 pr-10'>version 1.0.1</p>
           <a
-            href="https://github.com/vedantabanerjee/pass-generator"
+            href="https://github.com/vedantabanerjee/currency-converter"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center text-white hover:text-gray-400 transition duration-300 pr-5"
