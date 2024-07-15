@@ -9,7 +9,7 @@ const Footer = () => {
           &copy; {new Date().getFullYear()} vedantabanerjee
         </p>
         <div className='flex'>
-        <p className='text-gray-300 pr-10'>version 1.0.1</p>
+        <p className='text-gray-300 pr-10'>version 1.0.2</p>
           <a
             href="https://github.com/vedantabanerjee/currency-converter"
             target="_blank"

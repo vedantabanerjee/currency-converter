@@ -31,11 +31,11 @@ function App() {
       }}
     >
       <div className="bg-black w-full h-full bg-opacity-50">
-        <div className="w-full pt-10">
-          <div className="flex justify-center text-5xl text-white pb-5">
+        <div className="w-full p-3 pt-52">
+          <div className="flex justify-center text-4xl text-white pb-3">
             Currency Converter
           </div>
-          <div className="flex justify-center text-l text-gray-300 pb-44">
+          <div className="flex justify-center text-sm text-gray-300 pb-10">
             Interchange currency values with real-time price!
           </div>
           <div className="w-full max-w-md mx-auto border border-gray-60 rounded-lg p-5 backdrop-blur-sm bg-white/30">
